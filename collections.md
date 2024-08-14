@@ -4,5 +4,5 @@
     method="get" 
     expanded="true" 
 %} 
-    https://api.gitbook.com/openapi.json 
+    gitbook_api.yml
 {% endswagger %}

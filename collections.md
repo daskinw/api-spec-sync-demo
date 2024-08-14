@@ -1,5 +1,5 @@
 {% swagger 
-    src="./openapi.json" 
+    src="gitbook_api.yml"
     path="/collections/{collectionId}" 
     method="get" 
     expanded="true" 
